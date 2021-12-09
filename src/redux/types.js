@@ -1,0 +1,5 @@
+export const LOGIN="LOGIN"
+export const ADDPOST="ADDPOST"
+export const EDITPOST="EDITPOST"
+export const DELETEPOST="DELETEPOST"
+export const LIKEPOST="LIKEPOST"
